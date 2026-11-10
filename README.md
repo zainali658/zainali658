@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Zain Ali
 
-<!--
-**zainali658/zainali658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation Engineer and Project Manager. I build n8n, Zapier, Make and GoHighLevel automations, API integrations and AI agents that remove manual work for businesses.
 
-Here are some ideas to get you started:
+## What I work with
+n8n · Zapier · Make · GoHighLevel · ClickUp · Jira · Trello · Airtable · Slack · OpenAI · Claude
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+- Lead intake and CRM follow-up automations
+- API and webhook integrations between business tools
+- AI agents and workflow automation
+- Project management setups in ClickUp and Jira
+
+## Work with me
+Find me on Upwork: https://www.upwork.com/freelancers/~010d346d4da82e208c
